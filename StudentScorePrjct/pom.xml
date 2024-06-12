@@ -11,5 +11,5 @@
         <maven.compiler.target>21</maven.compiler.target>
         <exec.mainClass>com.mycompany.netbeanprjct1.NETBEANprjct1</exec.mainClass>
     </properties>
-    <name>Student Score Program</name>
+    <name>Trainee Score Program</name>
 </project>
