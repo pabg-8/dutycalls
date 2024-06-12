@@ -1,0 +1,2 @@
+# dutycalls
+Life code hacks 
